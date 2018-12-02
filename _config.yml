@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "Yueh-Han H."
   # tagline will appear under the title (optional)
-  tagline: "Student at Minerva School.<br>From Taipei to SF."
+  tagline: "Student at <a href="minerva.kgi.edu">Minerva School</a><br>In San Francisco"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
